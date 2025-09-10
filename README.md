@@ -19,8 +19,10 @@
 
 ## 🧾 Other Notes
 
-This tool was built with the help of AI, designed as a protective utility.  
-Feel free to **fork** and enhance it—I'd love to see what others create from this foundation.
+- This tool was built with the help of AI, designed as a protective utility.  
+- Feel free to **fork** and enhance it—I'd love to see what others create from this foundation.
+- This is built for **Windows** it will NOT work on linux
+- Must be run as admin
 
 ---
 
