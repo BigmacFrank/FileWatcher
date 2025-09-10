@@ -1,4 +1,4 @@
-# 🛡️ FileWatcger
+# 🛡️ FileWatcher
 
 **FileWatcher** is a lightweight monitoring tool that watches for file and folder activity across your system. It detects:
 
