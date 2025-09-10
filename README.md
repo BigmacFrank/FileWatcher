@@ -1,6 +1,6 @@
-# 🛡️ FileChecker
+# 🛡️ FileWatcger
 
-**FileChecker** is a lightweight monitoring tool that watches for file and folder activity across your system. It detects:
+**FileWatcher** is a lightweight monitoring tool that watches for file and folder activity across your system. It detects:
 
 - 📄 File creation, deletion, and property changes (size, attributes, permissions)
 - 📁 Folder creation and deletion
@@ -27,7 +27,7 @@
 ---
 ## 🔽 Download
 [FileWatcherV1.0.0.zip](https://github.com/user-attachments/files/22262875/FileWatcherV1.0.0.zip)  
-No build required—just unzip and run `FileChecker.exe`.
+No build required—just unzip and run `FileWatcher.exe`.
 
 ---
 
